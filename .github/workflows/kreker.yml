@@ -1,4 +1,4 @@
-Github-Workflow-name: Cracker-RDP
+
 on: [push, workflow_dispatch]
 jobs:
   build:
